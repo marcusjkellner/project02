@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="HEhKcJ0qut8uVus2N84l">
+    <mxGraphModel dx="1030" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PdfrV3mvejIpr-Zk-EZ4-2" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/VM_Images_Classic.svg;" value="Controller" vertex="1">
+          <mxGeometry height="64" width="69" x="330" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PdfrV3mvejIpr-Zk-EZ4-3" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Non_Azure_Machine.svg;" value="NFS File Server" vertex="1">
+          <mxGeometry height="100" width="62" x="330" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="PdfrV3mvejIpr-Zk-EZ4-6" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" value="User Group Legal" vertex="1">
+          <mxGeometry height="100" width="100" x="140" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="PdfrV3mvejIpr-Zk-EZ4-7" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userFemale;strokeColor=#666666;strokeColor2=#008cff;" value="User Group Sales" vertex="1">
+          <mxGeometry height="100" width="100" x="470" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="PdfrV3mvejIpr-Zk-EZ4-8" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" value="Legal Only&lt;div&gt;Max 200 GB&lt;/div&gt;" vertex="1">
+          <mxGeometry height="56.00000000000001" width="69" x="222" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="PdfrV3mvejIpr-Zk-EZ4-9" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" value="Any User&lt;div&gt;Max 400 GB&lt;/div&gt;" vertex="1">
+          <mxGeometry height="56.00000000000001" width="69" x="330" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="PdfrV3mvejIpr-Zk-EZ4-12" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" value="Sales Only&lt;div&gt;Max 100 GB&lt;/div&gt;" vertex="1">
+          <mxGeometry height="56.00000000000001" width="69" x="430" y="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
